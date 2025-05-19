@@ -1,0 +1,14 @@
+model-pretrained/
+models/
+
+__pycache__
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
