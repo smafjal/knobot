@@ -1,4 +1,4 @@
-# Knobot - Question Answering System
+# Knobot - Knowledge Bot (Q/A System) On your Domain
 
 A production-grade question answering system powered by RAG (Retrieval-Augmented Generation) and local language models.
 
